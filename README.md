@@ -38,13 +38,13 @@ Exportación del resultado a resultado_casos.xlsx.
 📂 Script: Ejercicio3.py
 📄 Consulta: consulta.txt
 
-🔹 Ejercicio 4 – Control de versiones con Git
+### 🔹 Ejercicio 4 – Control de versiones con Git
 Creación de repositorio en GitHub.
 
 Comandos utilizados: git init, git remote add origin, git add ., git commit -m, git push -u origin main.
 📄 Explicación: Ejercicio 4.pdf
 
-🔹 Ejercicio 5 – Dashboard en Power BI
+### 🔹 Ejercicio 5 – Dashboard en Power BI
 Conexión directa a las pestañas Casos y Meta en Power BI (sin usar DataFrames).
 
 Creación de un dashboard interactivo para responder preguntas como:
@@ -62,19 +62,9 @@ SQL (SQLite)
 Power BI
 Excel
 
-📦 Estructura del repositorio
-├─ data/                  # Archivo fuente Excel
-├─ outputs/               # Archivos Excel generados
-├─ Querys/                # SQL queries
-├─ Ejercicio1.py
-├─ Ejercicio2.py
-├─ Ejercicio3.py
-├─ consulta.txt
-├─ Ejercicio 4.pdf
-├─ PruebaBancolombia.pbix
-└─ README.md
 📣 Autor
 Miguel Gallego Álvarez
 ✉️ miguelgallego2020@gmail.com
+
 
 
