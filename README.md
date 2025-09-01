@@ -1,5 +1,4 @@
 # 📊 Contact Center Analytics – Python, SQL & Power BI
-
 Este proyecto corresponde a una **prueba técnica de analítica**, enfocada en el manejo de datos de un **Contact Center en redes sociales**.  
 Se trabajaron transformaciones con **Python (Pandas)**, consultas en **SQL (SQLite)** y visualización en **Power BI**.
 
@@ -10,8 +9,6 @@ Se trabajaron transformaciones con **Python (Pandas)**, consultas en **SQL (SQLi
 - Conversión a DataFrame `df_casos_bd` con la estructura:
 Red | Tipo | Fecha | Cant_Casos
 
-markdown
-Copiar código
 - Exportación del resultado a `df_casos_bd.xlsx`.  
 📂 Script: [`Ejercicio1.py`](Ejercicio1.py)
 
@@ -20,8 +17,6 @@ Copiar código
 - Creación de `df_casos_union` con la siguiente estructura:
 Red | Tipo | Fecha | Cant_Casos | Meta | % Cumplimiento
 
-css
-Copiar código
 - Exportación a `df_casos_union.xlsx`.  
 📂 Script: [`Ejercicio2.py`](Ejercicio2.py)
 
@@ -62,16 +57,11 @@ Creación de un dashboard interactivo para responder preguntas como:
 
 🛠️ Tecnologías utilizadas
 Python 3.9.12 (Pandas, XlsxWriter, SQLite3)
-
 SQL (SQLite)
-
 Power BI
-
 Excel
 
 📦 Estructura del repositorio
-bash
-Copiar código
 ├─ data/                  # Archivo fuente Excel
 ├─ outputs/               # Archivos Excel generados
 ├─ Querys/                # SQL queries
@@ -85,3 +75,4 @@ Copiar código
 📣 Autor
 Miguel Gallego Álvarez
 ✉️ miguelgallego2020@gmail.com
+
