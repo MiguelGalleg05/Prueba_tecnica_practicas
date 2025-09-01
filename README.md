@@ -33,6 +33,7 @@ SELECT
     SUM(Cant_Casos) AS Cant_Casos
 FROM df_casos_union
 GROUP BY Red, Tipo, strftime('%Y', Fecha), strftime('%m', Fecha);
+```
 Exportación del resultado a resultado_casos.xlsx.
 📂 Script: Ejercicio3.py
 📄 Consulta: consulta.txt
@@ -75,4 +76,5 @@ Excel
 📣 Autor
 Miguel Gallego Álvarez
 ✉️ miguelgallego2020@gmail.com
+
 
